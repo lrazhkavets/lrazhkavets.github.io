@@ -1,9 +1,13 @@
 # Liudmila Razhkavets
 
-### Город: ###Минск
-### Моб. телефон: ###+375296695559
-### E-mail: ###lrazhkavets@gmail.com
-### Ссылка на проект: ### <https://github.com/lrazhkavets/Weather>
+### Город: 
+Минск
+### Моб. телефон: 
++375296695559
+### E-mail: 
+lrazhkavets@gmail.com
+### Ссылка на проект: 
+<https://github.com/lrazhkavets/Weather>
 
 ---
 
